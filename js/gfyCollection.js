@@ -62,4 +62,6 @@ var gfyCollection = function () {
         scan: scan
     }
 
-}();
+};
+
+module.exports.gfyCollection =  new gfyCollection();

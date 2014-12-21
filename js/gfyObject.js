@@ -525,3 +525,5 @@ var gfyObject = function (gfyElem) {
         refresh: refresh
     }
 }
+
+module.exports.gfyCollection =  new gfyObject();
